@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+celery[redis]
+redis
+python-dotenv
+requests
+langchain
+openai
+pytest
