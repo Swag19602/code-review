@@ -13,10 +13,6 @@ An autonomous code review agent system that uses AI to analyze GitHub pull reque
 - Dockerized setup for easy deployment.
 - Support for multiple programming languages.
 
-## Live Deployment
-
-[Live API URL](https://your-deployment-url.com)
-
 ## Setup Instructions
 
 ### Prerequisites
